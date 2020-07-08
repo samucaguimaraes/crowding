@@ -7,10 +7,6 @@
 <blockquote align="justify">
 "CROWDING" : Aplicativo com o objetivo de DIVULGAR aglomerações próximas, possibilitando o compartilhamento dos responsáveis e localização nas redes sociais.
 
-Fábio Elisio é referência de React Native e JS, logo tem muito a contribuir nesse projeto ; 
-Marley Oliveira é altamente criativo e resolutivo em processo de negócios e arquitetura de soluções de software;
-Igor da Hora é um analista muito competente e atualizado nas mais variadas tecnologias, essencial em qualquer projeto;
-
 De acordo com o atual momento que estamos passando precisamos ter o maior numero de canais para divulgação de aglomerações
 </blockquote>
 
@@ -18,6 +14,12 @@ De acordo com o atual momento que estamos passando precisamos ter o maior numero
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
+
+### Mentores do Projeto
+
+Fábio Elisio é referência de React Native e JS, logo tem muito a contribuir nesse projeto ; 
+Marley Oliveira é altamente criativo e resolutivo em processo de negócios e arquitetura de soluções de software;
+Igor da Hora é um analista muito competente e atualizado nas mais variadas tecnologias, essencial em qualquer projeto;
 
 ### Ambiente de Desenvolvimento
 
