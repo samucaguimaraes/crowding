@@ -4,7 +4,7 @@
     [Expansion Week] Desafio 02
 </h3>
 
-<blockquote align="center">
+<blockquote align="justify">
 "CROWDING" : Aplicativo com o objetivo de DIVULGAR aglomerações próximas, possibilitando o compartilhamento dos responsáveis e localização nas redes sociais.
 
 Fábio Elisio é referência de React Native e JS, logo tem muito a contribuir nesse projeto ; 
