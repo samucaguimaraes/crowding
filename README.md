@@ -4,7 +4,15 @@
     [Expansion Week] Desafio 02
 </h3>
 
-<blockquote align="center">Projeto com o objetivo de DIVULGAR aglomerações próximas, possibilitando o compartilhamento dos responsáveis e localização nas redes sociais: Whatsup, Facebook e Instagram</blockquote>
+<blockquote align="center">
+"CROWDING" : Aplicativo com o objetivo de DIVULGAR aglomerações próximas, possibilitando o compartilhamento dos responsáveis e localização nas redes sociais.
+
+Fábio Elisio é referência de React Native e JS, logo tem muito a contribuir nesse projeto ; 
+Marley Oliveira é altamente criativo e resolutivo em processo de negócios e arquitetura de soluções de software;
+Igor da Hora é um analista muito competente e atualizado nas mais variadas tecnologias, essencial em qualquer projeto;
+
+De acordo com o atual momento que estamos passando precisamos ter o maior numero de canais para divulgação de aglomerações
+</blockquote>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafios?color=%2304D361">
