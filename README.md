@@ -14,7 +14,6 @@ npm install expo-cli — global
 cd crowding && yarn start
 ```
 
-
 ## Installation
 
 ```sh
