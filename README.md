@@ -1,2 +1,2 @@
 # crowding
-Projeto com o objetivo de denunciar aglomerações nas proximidades, possibilitando o compartilhamento da denuncia
+Projeto com o objetivo de DIVULGAR aglomerações nas proximidades, possibilitando o compartilhamento nas redes sociais
