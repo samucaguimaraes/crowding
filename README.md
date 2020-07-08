@@ -6,10 +6,19 @@
 
 <blockquote align="center">Projeto com o objetivo de DIVULGAR aglomerações próximas, possibilitando o compartilhamento dos responsáveis e localização nas redes sociais: Whatsup, Facebook e Instagram</blockquote>
 
+## Development setup
+
+Para contribuir com esse projeto é necessário
+```sh
+npm install expo-cli — global
+cd crowding && yarn start
+```
+
+
 ## Installation
 
 ```sh
-yarn add expo
+yarn 
 ```
 
 ## Contributing
