@@ -6,7 +6,14 @@
 
 <blockquote align="center">Projeto com o objetivo de DIVULGAR aglomerações próximas, possibilitando o compartilhamento dos responsáveis e localização nas redes sociais: Whatsup, Facebook e Instagram</blockquote>
 
- <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+## Installation
+OS X & Linux:
+
+```sh
+npm install my-crazy-module --save
+```
+
+<img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
 
 
