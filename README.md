@@ -6,20 +6,20 @@
 
 <blockquote align="center">Projeto com o objetivo de DIVULGAR aglomerações próximas, possibilitando o compartilhamento dos responsáveis e localização nas redes sociais: Whatsup, Facebook e Instagram</blockquote>
 
-## Ambiente de Desenvolvimento
+### Ambiente de Desenvolvimento
 
 ```sh
 npm install expo-cli — global
 cd crowding && yarn start
 ```
 
-## Instalando o crowding
+### Instalando o crowding
 
 ```sh
 yarn 
 ```
 
-## COmo contribuir?
+### Como contribuir?
 
 1. Fork it (<https://github.com/samucaguimaraes/crowding/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
