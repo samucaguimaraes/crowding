@@ -5,9 +5,7 @@
 </h3>
 
 <blockquote align="justify">
-"CROWDING" : Aplicativo com o objetivo de DIVULGAR aglomerações próximas, possibilitando o compartilhamento dos responsáveis e localização nas redes sociais.
-
-De acordo com o atual momento que estamos passando precisamos ter o maior numero de canais para divulgação de aglomerações
+"CROWDING" : Aplicativo com o objetivo de identificar aglomerações próximas, possibilitando a proteção do cidadão.
 </blockquote>
 
 <p align="center">
